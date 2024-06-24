@@ -6,10 +6,20 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing a Master's degree in AI and Machine Learning at the University of Birmingham in Dubai.
+- 🎓 Currently pursuing a Master's degree in Artificial Intelligence and Machine Learning at the University of Birmingham in Dubai.
 - 🌟 Known for exceptional organizational skills, strong time management, and thorough planning abilities.
 - 📈 Consistently achieved first-class marks throughout my academic journey, demonstrating excellence as a student.
 - 📐 I value structure, clarity, and precision in all aspects of my work.
+
+---
+
+## 📈 Recent Projects
+- 💼📊 **Stock Portfolio Analysis Tool**: A tool that analyzes stock portfolios and predicts financial outcomes using four machine learning and two statistical models.
+- 🎮🧩 [TetrECS](https://github.com/Cyber-Var/TetrECS): A Tetris-like game with both single-player and multiplayer modes.
+- 🖼️🔍 [Scene Recognition](https://github.com/SotonCoders/scene_recognition): Image categorization using multiple Computer Vision and deep AI approaches.
+- 🔠👾 [HaskTile](https://github.com/SotonCoders/scene_recognition): A new domain-specific language written in Haskell for editing tiles.
+
+**GitHub Organization:** [SotonCoders](https://github.com/SotonCoders)
 
 ---
 
@@ -75,12 +85,6 @@
 - **Russian:** Native
 - **Arabic:** Elementary
 - **German:** Elementary
-
----
-
-## 📈 Recent Projects
-
-- **GitHub Organization:** [My Organization](<link>)
 
 ---
 
