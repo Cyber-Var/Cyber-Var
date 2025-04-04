@@ -17,7 +17,7 @@
 - 💼📊 **Stock Portfolio Analysis Tool**: A tool that analyzes stock portfolios and predicts financial outcomes using four machine learning and two statistical models.
 - 🎮🧩 [TetrECS](https://github.com/Cyber-Var/TetrECS): A Tetris-like game with both single-player and multiplayer modes.
 - 🖼️🔍 [Scene Recognition](https://github.com/SotonCoders/scene_recognition): Image categorization using multiple Computer Vision and deep AI approaches.
-- 🔠👾 [HaskTile](https://github.com/SotonCoders/scene_recognition): A new domain-specific language written in Haskell for editing tiles.
+- 🔠👾 [HaskTile](https://github.com/SotonCoders/HaskTile): A new domain-specific language written in Haskell for editing tiles.
 
 **GitHub Organization:** [SotonCoders](https://github.com/SotonCoders)
 
