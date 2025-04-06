@@ -54,6 +54,9 @@
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>
 </a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="PyTorch" title="PyTorch"/>
+</a>
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://img.icons8.com/?id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas"/>
 </a>
@@ -75,7 +78,9 @@
 - OOP
 - Data Structures
 - Algorithms
-- Maths and Statistics
+- Applied Mathematics
+- Applied Statistics
+- Stochastic Processes
 
 ---
 
